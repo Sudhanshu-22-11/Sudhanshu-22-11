@@ -38,10 +38,30 @@
 
 ## 📂 Projects
 
-🔹 **My First Project**  
-Working on beginner-friendly coding projects and continuously improving skills.
+### 🔹 Exam Guardrail 🛡️  
 
----
+A secure web-based examination management system developed using modern web technologies to maintain discipline and security during exams.  
+The system includes authentication, rule-based validation, and cloud-based data handling.
+
+**🛠️ Technologies Used:**  
+- Node.js  
+- JavaScript  
+- JSX  
+- HTML  
+- CSS  
+- Firebase (Authentication & Database)  
+- JWT (JSON Web Token Authentication)
+
+**🎯 Key Features:**  
+✔ Secure user authentication using JWT  
+✔ Cloud-based data storage using Firebase  
+✔ Interactive user interface built with JSX  
+✔ Rule-based exam monitoring system  
+✔ Structured backend using Node.js  
+✔ Responsive web-based design  
+
+🔗 **Project Link:**  
+https://github.com/Sudhanshu-22-11/Exam-Guardrail
 
 ## 🏆 Achievements
 
