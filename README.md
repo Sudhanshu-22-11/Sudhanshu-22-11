@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 - 🎓 Student Developer from India  
-- 🚀 Built **Exam-Guardrail** project  
+- 🚀 Built projects  
 - 🌱 Currently learning **Full Stack Development**  
 - ⚡ Interested in secure web systems  
 
