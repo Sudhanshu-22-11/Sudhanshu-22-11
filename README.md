@@ -3,11 +3,16 @@
 <!--            MIDNIGHT CYAN EDITION             -->
 <!-- ============================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005B74,100:00D9FF&height=230&section=header&text=SUDHANSHU%20KUMAR%20PANDEY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BE%20CSE%20%7C%20DATA%20SCIENCE%20%7C%20AI%20%26%20FULL-STACK&descAlignY=60" alt="header"/>
+<!-- ============================================ -->
+<!--       DEVENDRA SANKHLA | GITHUB PROFILE      -->
+<!--            MIDNIGHT CYAN EDITION             -->
+<!-- ============================================ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005B74,100:00D9FF&height=230&section=header&text=SUDHANSHU%20KUMAR%20PANDEY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE.%20SCIENCE.%20FULL-STACK.&descAlignY=60" alt="header"/>
 
 <div align="center">
 
-# Hey, I'm Sudhanshu Kumar Pandey 👋
+# Hey, I'm SUDHANSHU KUMAR PANDEY 👋
 
 ### BE CSE | Data Science | AI & Full-Stack Developer
 
