@@ -1,12 +1,32 @@
-<!-- ========================================================= -->
-<!--                     ANIMATED HEADER                       -->
-<!-- ========================================================= -->
+<!-- ==================== PREMIUM HEADER ==================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:003B4D,70:0088A8,100:00D9FF&height=260&section=header&text=Sudhanshu%20Kumar%20Pandey&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=BE%20CSE%20%7C%20Data%20Science%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18"
-    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=70&lines=SUDHANSHU+KUMAR+PANDEY"
     alt="Sudhanshu Kumar Pandey"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=50&lines=BE+CSE+%7C+DATA+SCIENCE;AI+%26+FULL-STACK+DEVELOPER;BUILDING+INTELLIGENT+SOLUTIONS;TURNING+IDEAS+INTO+REAL-WORLD+PRODUCTS"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=8&section=header"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005B74,100:00D9FF&height=120&section=header"
+    width="100%"
+    alt=""
   />
 </p>
 
@@ -96,16 +116,18 @@ I enjoy working at the intersection of **Artificial Intelligence, Data Science a
 <!-- ========================================================= -->
 
 ## 📈 Contribution Activity
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhanshu-22-11&theme=tokyonight"
-    width="100%"
-    alt="Contribution Activity"
-  />
-</p>
 
----
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-22-11&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="Sudhanshu's Contribution Activity"
+  />
+
+</p>
 
 <!-- ========================================================= -->
 <!--                     GITHUB STATS                          -->
