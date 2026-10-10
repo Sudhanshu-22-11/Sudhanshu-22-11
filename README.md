@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sudhanshu-22-11&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sudhanshu-22-11&label=Profile%20Views&color=00D9FF&style=for-the-badge"alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Sudhanshu-22-11?label=FOLLOWERS&style=for-the-badge&color=00B8D9&labelColor=101820" alt="GitHub Followers" />
 
 </div>
