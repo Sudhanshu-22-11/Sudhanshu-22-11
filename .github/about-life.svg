@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title">
+<title id="title">About me and what I explore</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0b0d16"/></linearGradient><linearGradient id="edge"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" opacity=".15"/></pattern><style>.s{font-family:Inter,ui-sans-serif,system-ui,sans-serif}.m{font-family:ui-monospace,monospace;letter-spacing:1px}.glow{animation:g 3s ease-in-out infinite}@keyframes g{50%{opacity:.45}}</style></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#dots)"/>
+<rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="url(#edge)" stroke-opacity=".65"/>
+<g class="s">
+ <rect x="28" y="28" width="555" height="304" rx="18" fill="#0b1020" stroke="#334155"/>
+ <rect x="28" y="28" width="555" height="43" rx="18" fill="#172033"/>
+ <circle cx="48" cy="49" r="4" fill="#f472b6"/><circle cx="62" cy="49" r="4" fill="#fbbf24"/><circle cx="76" cy="49" r="4" fill="#34d399"/>
+ <text x="103" y="53" fill="#94a3b8" font-size="12">about-sudhanshu.dev</text>
+ <text x="54" y="111" fill="#67e8f9" font-size="13" class="m">// WHAT I BUILD</text>
+ <text x="54" y="146" fill="#f8fafc" font-size="24" font-weight="750">Ideas into interfaces.</text>
+ <text x="54" y="173" fill="#94a3b8" font-size="14">I enjoy turning concepts into clean, responsive</text><text x="54" y="194" fill="#94a3b8" font-size="14">web experiences with strong visual detail.</text>
+ <g transform="translate(54 220)">
+  <rect width="225" height="42" rx="10" fill="#111827" stroke="#334155"/><rect x="0" width="4" height="42" rx="2" fill="#22d3ee"/><text x="17" y="17" fill="#e2e8f0" font-size="12" font-weight="650">Responsive Frontend</text><text x="17" y="32" fill="#64748b" font-size="10">HTML · CSS · Layout</text>
+  <rect x="242" width="255" height="42" rx="10" fill="#111827" stroke="#334155"/><rect x="242" width="4" height="42" rx="2" fill="#a78bfa"/><text x="259" y="17" fill="#e2e8f0" font-size="12" font-weight="650">Visual UI Craft</text><text x="259" y="32" fill="#64748b" font-size="10">Composition · Details · UX</text>
+  <rect y="52" width="497" height="42" rx="10" fill="#111827" stroke="#334155"/><rect y="52" width="4" height="42" rx="2" fill="#f472b6"/><text x="17" y="69" fill="#e2e8f0" font-size="12" font-weight="650">Learning by building</text><text x="17" y="84" fill="#64748b" font-size="10">Projects, prototypes, experiments and iteration</text>
+ </g>
+ <rect x="605" y="28" width="567" height="304" rx="18" fill="#0b1020" stroke="#334155"/>
+ <text x="633" y="63" fill="#c4b5fd" font-size="13" class="m">// BEYOND THE EDITOR</text>
+ <text x="633" y="100" fill="#f8fafc" font-size="23" font-weight="750">Curiosity drives the build.</text>
+ <g transform="translate(633 124)">
+  <rect width="509" height="43" rx="11" fill="#111827" stroke="#334155"/><circle cx="23" cy="21" r="10" fill="#22d3ee" fill-opacity=".16"/><path d="M18 21l4 4 7-9" fill="none" stroke="#67e8f9" stroke-width="2"/><text x="45" y="18" fill="#e2e8f0" font-size="13" font-weight="650">Interactive websites</text><text x="45" y="32" fill="#64748b" font-size="11">Motion, scrolling and polished micro-interactions</text>
+  <rect y="53" width="509" height="43" rx="11" fill="#111827" stroke="#334155"/><circle cx="23" cy="74" r="10" fill="#a78bfa" fill-opacity=".16"/><path d="M17 74h12m-6-6v12" stroke="#c4b5fd" stroke-width="2"/><text x="45" y="71" fill="#e2e8f0" font-size="13" font-weight="650">3D and creative coding</text><text x="45" y="85" fill="#64748b" font-size="11">Exploring new visual ways to tell a story</text>
+  <rect y="106" width="509" height="43" rx="11" fill="#111827" stroke="#334155"/><circle cx="23" cy="127" r="10" fill="#f472b6" fill-opacity=".16"/><path d="M18 130l5-8 5 8z" fill="none" stroke="#f9a8d4" stroke-width="1.5"/><text x="45" y="124" fill="#e2e8f0" font-size="13" font-weight="650">AI-assisted prototyping</text><text x="45" y="138" fill="#64748b" font-size="11">Experimenting, learning and shipping faster</text>
+ </g>
+ <text x="633" y="306" fill="#64748b" font-size="11" class="m">LEARN → BUILD → TEST → IMPROVE</text>
+</g></svg>
