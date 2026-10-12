@@ -118,7 +118,7 @@ export const sudhanshu = {
 
 ## 🦊 MY CONTRIBUTION FOX
 
-<img width="100%" src="./assets/fox-run.svg" alt="Animated fox running through contribution grid" />
+<img width="100%" src="./dragon-run.svg" alt="Animated fox running through contribution grid" />
 
 </div>
 
