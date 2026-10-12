@@ -104,13 +104,7 @@ export const sudhanshu = {
 
 <br/><br/>
 
-## 📈 ACTIVITY GRAPH
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-22-11&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<br/>
 
 <!-- ================= FOX ================= -->
 
