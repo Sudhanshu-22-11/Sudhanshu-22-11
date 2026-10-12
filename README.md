@@ -110,7 +110,7 @@ export const sudhanshu = {
 
 <div align="center">
 
-## 🦊 MY CONTRIBUTION FOX
+## 🦊 MY CONTRIBUTION DRAGON
 
 <img width="100%" src="./dragon-run.svg" alt="Animated fox running through contribution grid" />
 
